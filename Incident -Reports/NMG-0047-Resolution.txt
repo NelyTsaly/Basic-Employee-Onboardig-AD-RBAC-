@@ -1,0 +1,21 @@
+Jane's User Identity is in the Operations OU
+
+ I found that janr was in the Operations OU, but she is supposedto be in the HR OU. Because she's a HR. SSPayroll Specialist
+
+ Jane Cooper is currently a member of Operations-Users. She shoul be a member of: HR-User.
+
+The reason this issue occured is because Jane was placed in the incorrect OU which led to her being granted the wrong scopre This is why the policie weren't applied to her properly.
+
+Ticket number: NMG-0047
+
+Afected user: Jane Cooper (jcooper@NMG.com)
+
+Issue reported: Unable to acces HR shared ressources. Desktop policies and mapped drives differ from teamates.
+
+Root cause: This issues occured because Jane Cooper was placed iside the wrong OU and Security Group! This led to her being it
+
+Fix applied: To fix this issue I simply moved Jane Cooper into the correct OU for HR. I also changed her security Group! to H Verification: I confirmed the issue was resolved by reviewing the OU and the security Group Members List and raking screensh
+
+Date resolved: 07/11ss/2026
+
+Resolved by: Nely C.Tsaly
