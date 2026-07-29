@@ -5,7 +5,7 @@
 *To resolve these identity lifecycle issues, I designed and deployed a centralized onboarding pipeline in a controlled lab environment: RBAC Access Matrix: Established a structured matrix mapping organizational job roles directly to Active Directory Security Groups and resource permissions. Role-Based Provisioning: Standardized user account creation to ensure users receive access strictly required for their job function. 
 Incident Simulation & Remediation: Simulated a real-world helpdesk ticketing scenario where a user received misprovisioned access permissions, demonstrating the identification, auditing, and remediation process. 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/2cbdf62759e74c43ac0764253eb5cb53 
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
